@@ -1,6 +1,6 @@
 # Densory Verify — Verification & OAuth
 
-![Latest version: v1.1.5](https://img.shields.io/badge/Latest_version%3A_v1.1.5-555) ![Self-Hosted](https://img.shields.io/badge/Self--Hosted-555)
+![Latest version: v1.1.6](https://img.shields.io/badge/Latest_version%3A_v1.1.6-555) ![Self-Hosted](https://img.shields.io/badge/Self--Hosted-555)
 
 ![Densory Verify](docs/assets/hero-en.png)
 
