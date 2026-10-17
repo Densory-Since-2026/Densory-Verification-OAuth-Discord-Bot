@@ -17,8 +17,8 @@ Alle folgenden Einstellungen konfigurierst du in deinem [Control Center](https:/
 | `verify_slug_display` | `string` | `""` | — |
 | `verified_role_id` | `role` | `—` | — |
 | `unverified_role_id` | `role` | `—` | — |
-| `on_verify_action` | `string` | `give` | — |
-| `log_channel_id` | `channel` | `—` | — |
+| `on_verify_action` | `string` | `give` | Aktion bei Verify |
+| `log_channel_id` | `channel` | `—` | Log-Kanal |
 | `verify_message_title` | `string` | `Verifizierung` | — |
 | `verify_message_description` | `string` | `Klicke unten auf **Verifizieren** um Zugang zum Server zu erhalten.` | — |
 | `verify_message_color` | `hexColor` | `5793266` | — |
