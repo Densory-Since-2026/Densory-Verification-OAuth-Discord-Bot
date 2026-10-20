@@ -1,12 +1,12 @@
 # Densory Verify — Verification & OAuth
 
-![Latest version: v1.1.7](https://img.shields.io/badge/Latest_version%3A_v1.1.7-555) ![Self-Hosted](https://img.shields.io/badge/Self--Hosted-555)
+![Latest version: v1.1.8](https://img.shields.io/badge/Latest_version%3A_v1.1.8-555) ![Self-Hosted](https://img.shields.io/badge/Self--Hosted-555)
 
 ![Densory Verify](docs/assets/hero-en.png)
 
 > OAuth verify page with captcha, anti-abuse and member studio — live in minutes.
 
-Members verify themselves through your own page, automatically get their role, and optionally go through captcha, VPN protection, and alt filtering. You design everything in the dashboard: slug, colors, verify page and member management — without complicated in-house development.
+Members verify themselves via your own page, automatically receive their role, and optionally go through captcha, VPN protection, and alt filters. You design everything in the dashboard: slug, colors, verify page, and member management — without complicated in-house development.
 
 ### 🛒 Get it on the Densory Shop
 
@@ -14,12 +14,12 @@ Members verify themselves through your own page, automatically get their role, a
 
 ## Features
 
-- **Discord OAuth** — OAuth2 with encrypted tokens — roles, gateway joins, and re-verify automatically.
+- **Discord OAuth** — OAuth2 with encrypted tokens — roles and server join automatically.
 - **Custom Branding** — Verify page with its own CSS, banner, cursor and slug — looks like your server, not Densory.
 - **Anti-Abuse** — VPN/Tor, Alt-Clusters, Blocklists, Captcha, and Account-Age — multi-layered configurable.
 - **Live instantly** — Slug, Credentials, and Verify Panel — ready to use in under 5 minutes from the dashboard.
-- **Verify Studio** — Member pool with profiles, connections, admin servers — live sync and GDPR self-service.
-- **Audit & Webhooks** — Real-time log, deauth webhooks, health checks — every action traceable in the dashboard.
+- **Verify Studio** — Member pool with profiles, shortcuts, and admin servers — GDPR export with a click.
+- **Audit & Webhooks** — Role log in Discord, revocation via webhook, health checks — all traceable.
 
 ## Prerequisites
 

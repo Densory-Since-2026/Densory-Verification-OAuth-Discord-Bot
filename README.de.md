@@ -1,6 +1,6 @@
 # Densory Verify — Verifizierung & OAuth
 
-![Aktuelle Version: v1.1.7](https://img.shields.io/badge/Aktuelle_Version%3A_v1.1.7-555) ![Self-Hosted](https://img.shields.io/badge/Self--Hosted-555)
+![Aktuelle Version: v1.1.8](https://img.shields.io/badge/Aktuelle_Version%3A_v1.1.8-555) ![Self-Hosted](https://img.shields.io/badge/Self--Hosted-555)
 
 ![Densory Verify](docs/assets/hero-de.png)
 
@@ -14,12 +14,12 @@ Mitglieder verifizieren sich über deine eigene Seite, erhalten automatisch ihre
 
 ## Funktionen
 
-- **Discord OAuth** — OAuth2 mit verschlüsselten Tokens — Rollen, Gateway-Joins und Re-Verify automatisch.
+- **Discord OAuth** — OAuth2 mit verschlüsselten Tokens — Rollen und Server-Beitritt automatisch.
 - **Custom Branding** — Verify-Page mit eigenem CSS, Banner, Cursor und Slug — wirkt wie dein Server, nicht wie Densory.
 - **Anti-Abuse** — VPN/Tor, Alt-Clusters, Blocklists, Captcha und Account-Age — mehrschichtig konfigurierbar.
 - **Sofort live** — Slug, Credentials und Verify-Panel — in unter 5 Minuten einsatzbereit aus dem Dashboard.
-- **Verify Studio** — Member-Pool mit Profilen, Connections, Admin-Servern — Live-Sync und GDPR-Self-Service.
-- **Audit & Webhooks** — Echtzeit-Log, Deauth-Webhooks, Health-Checks — jede Aktion nachvollziehbar im Dashboard.
+- **Verify Studio** — Member-Pool mit Profilen, Verknüpfungen und Admin-Servern — DSGVO-Export per Klick.
+- **Audit & Webhooks** — Rollen-Log im Discord, Widerruf per Webhook, Health-Checks — alles nachvollziehbar.
 
 ## Voraussetzungen
 
